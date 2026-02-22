@@ -4,8 +4,7 @@
 **Team Members:** Christian Shannon, Ashley Love, Mugtaba Awad, and Kristian Livingston
 
 **Presentation Link:**  
-[[https://www.canva.com/design/DAG9koWKaK4/vhbgQZ2pM8lB56cZI8DwKg/edit?utm_content=DAG9koWKaK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAG9koWKaK4/vhbgQZ2pM8lB56cZI8DwKg/edit?utm_content=DAG9koWKaK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) ](https://github.com/cashannon/Diabetes_Clinical_Remediation_Pipeline/blob/main/reports/Diabetes%20Clinical%20Remediation%20Pipeline%20Presentation.mp4)
-
+https://github.com/cashannon/Diabetes_Clinical_Remediation_Pipeline/blob/main/reports/Diabetes%20Clinical%20Remediation%20Pipeline%20Presentation.mp4
 ---
 
 ## 1. Project Overview
